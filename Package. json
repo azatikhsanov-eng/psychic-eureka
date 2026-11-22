@@ -1,0 +1,7 @@
+{
+  "name": "flower-dispatch",
+  "version": "1.0.0",
+  "description": "Контроль курьеров и заказов для доставки цветов",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
